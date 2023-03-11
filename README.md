@@ -11,4 +11,4 @@ NoiseZen is a powerful app that generates brown and pink noise to help you focus
 ## Sub Pages
 <!-- link to Pravicy.md -->
 - [Privacy Policy](Pravicy.md)
-- [Supports](supports.md)
+- [Supports](Supports.md)
